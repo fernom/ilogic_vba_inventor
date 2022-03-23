@@ -10,6 +10,7 @@ O [iLogic](https://knowledge.autodesk.com/pt-br/support/inventor/learn-explore/c
 - `comprimento_frame.md`: Cria propriedade com comprimento de peça do frame generator
 - `numero_item_bom_para_nota.md`: Criar propriedade em peça com número do seu item na BOM
 - `peso_no_desenho.md`: Nota de peso no desenho (somando da lista de peças)
+- `info_de_legenda_para_iProperties.md`: Extrai informações de legendas de desenhos e as salva como iProperties no modelo referenciado
 
 ## Códigos VBA
 Em breve

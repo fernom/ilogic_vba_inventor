@@ -1,3 +1,8 @@
+## Lê informações salvas nos campos de texto de uma legenda de desenho e as salva como iProperties no modelo referênciado
+Este código lê as informações salvas nos campos de texto (*Field Text*) de uma legenda de desenho do Inventor e as salva como *iProperties* do modelo referênciado no desenho. O código atual puxa a informação da primeira vista salva, mas pode ser adaptado para ler outras vistas presentes no desenho.
+
+A informação é salva no *iProperties* do modelo, mas pode ser adaptado para salvar no arquivo de desenho também.
+
 ```
 ' Este script lê informações salvas em campos de textos de legendas de desenhos (ou blocos)
 ' e as insere em iProperties do modelo (pode ser alterado para inserir no desenho também)
